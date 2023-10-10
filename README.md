@@ -1,4 +1,4 @@
-# Covid19-Project. (MySQL Workbench)
+# Covid19-Project. (MySQL Workbench/Tableau)
 
 This project is a collection of SQL queries and data analysis related to COVID-19 data. It aims to analyze COVID-19 statistics, including deaths, cases, vaccinations, and population data, and derive insights from the data. It performs various calculations and creates views to facilitate further analysis. The project includes the following major sections:
 
@@ -40,7 +40,7 @@ Selecting Data from View: The project concludes by selecting data from the creat
 
 This project serves as a comprehensive analysis of COVID-19 data using SQL queries and provides a structured workflow for analyzing and visualizing pandemic-related statistics.
 
-Furthermore, COVID-19 Data Analysis in Tableau with MySQL Queries (Visualization)
+Furthermore, Summary of the COVID-19 Data Analysis in Tableau with MySQL Queries (Visualization)
 
 Description:
 This Tableau project focuses on the analysis of COVID-19 data using MySQL queries to extract and transform the data for visualization in Tableau with a focus on summarizing and visualizing key statistics such as total cases, total deaths, death percentages, and infection rates.
