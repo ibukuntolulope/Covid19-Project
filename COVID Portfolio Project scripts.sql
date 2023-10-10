@@ -4,7 +4,7 @@ Where continent is not null
 ORDER BY 3,4;
 
 -- Looking at Total Cases vs Total Deaths
--- Shows the likelihood of dying if you contract covid in your country
+-- Shows the likelihood of dying if you contact covid in your country
 
 Select location, date, total_cases,total_deaths, (total_deaths/total_cases)*100 as DeathPercentage
 FROM PortfolioProject.coviddeaths
